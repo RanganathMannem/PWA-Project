@@ -1,0 +1,56 @@
+{
+  "basic":{
+   "image":"download.jpg",
+   "name":"Ranganath",
+   "mail":"sairanganathm2103@gmail.com",
+   "college":"Pragati Engineering College",
+   "number":"+91-8179938577",
+   "address":"Surampalem",
+   "add1":"Pragati Enigineering College."
+},
+"career":{
+  "info":"  to achive a blockchain designer positon and to enhance my knowledge to be useful for the organisaton and society"
+
+},
+"education":[
+  {"institute":"Pragati Engineering College",
+    "Degree":"B.tech",
+    "passout":"2020"
+},
+{
+  "institute":"Aditya Junior College",
+    "Degree":"Intermidiate",
+    "passout":"2016"
+},
+{
+  "institute":"Aditya School",
+    "Degree":"SSC",
+    "passout":"2014"
+}
+],
+"technical":[
+  {
+    "title":"Programing languages",
+    "content":["C,C++,JAVA,PYTHON"]
+  },
+  {
+    "title":"Operating system",
+    "content":["Windows, Linux, Ubuntu"]
+  },
+  {
+    "title":"Databases",
+    "content":["mysql,oracle,indexedDB,TinyDb"]
+  }
+],
+"Achivements":[
+  {
+    "info":"ML basics"
+  },
+  {
+    "info":"big data basics"
+  },
+  {
+    "info":"Progressive Web Apps"
+  }
+]
+}
